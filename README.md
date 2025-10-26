@@ -1,108 +1,13 @@
-🧠 Data Analytics Project 
-📋 Project Overview
-
-This project aims to analyze and visualize business data to uncover insights, identify trends, and support data-driven decisions.
-It includes data extraction, cleaning, modeling, and interactive dashboards built in Power BI and Python.
-
-🎯 Objectives
-
-Transform raw data into meaningful insights
-
-Identify key performance indicators (KPIs)
-
-Create automated, interactive dashboards
-
-Enable better forecasting and decision-making through visual analytics
-
-🧩 Project Structure
-📁 Data_Analytics_Project/
-│
-├── 📊 Data/                     # Raw and processed datasets
-├── 📈 Reports/                  # Power BI (.pbix) reports
-├── 🧮 Scripts/                  # Data cleaning & transformation scripts
-├── 📚 Docs/                     # Supporting documentation
-└── README.md                    # This file
-
-🛠️ Tools & Technologies
-Category	Tools Used
-Data Processing	Python (Pandas, NumPy), SQL
-Visualization	Power BI, Matplotlib, Seaborn
-Automation	Power Query, DAX
-Documentation	Markdown, Excel
-📊 Data Sources
-
-Internal Company Databases (Sales, Marketing, Finance)
-
-External Datasets (Public APIs, CSV imports)
-
-Manually Collected Inputs (Surveys, Forms)
-
-🧹 Data Cleaning & Preparation
-
-Removed duplicates and null values
-
-Standardized date formats and numeric types
-
-Created calculated columns for performance metrics
-
-Merged multiple tables using Power Query joins
-
-📈 Dashboard Highlights
-1. Sales Performance
-
-Year-over-Year growth visualization
-
-Top 10 performing regions and products
-
-2. Customer Insights
-
-Retention and churn analysis
-
-Customer segmentation using demographics
-
-3. Financial Overview
-
-Profit margin and revenue trends
-
-Expense vs revenue forecasting
-
-📐 Key Metrics (KPIs)
-KPI	Description
-Total Revenue	Sum of all sales transactions
-Profit Margin	Net Profit ÷ Total Revenue
-Customer Retention Rate	% of returning customers
-Average Order Value (AOV)	Total Revenue ÷ Number of Orders
-⚙️ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/yourusername/DataAnalyticsProject.git
-
-
-Install required Python libraries:
-
-pip install -r requirements.txt
-
-
-Open the Power BI report:
-
-/Reports/Analytics_Dashboard.pbix
-
-
-Connect to the dataset or refresh the data model.
-
-🧠 Insights Summary
-
-Sales increased 18% YoY due to improved customer retention.
-
-Marketing campaigns improved ROI by 22% through better targeting.
-
-Operational costs were reduced by 15% after identifying inefficiencies.
-
-🔮 Future Improvements
-
-Integrate machine learning models for predictive analytics.
-
-Add live data refresh through API connections.
-
-Implement version control for Power BI datasets.
+<h1 align="center">🧠 Data Analytics Project</h1> <p align="center"><i>Transforming data into actionable insights</i></p>
+<h2>📋 Project Overview</h2> <p style="font-size:14px;"> This project focuses on analyzing and visualizing business data to discover insights, track KPIs, and support data-driven decisions. It includes end-to-end processes like data cleaning, transformation, and dashboard creation using <b>Power BI</b> and <b>Python</b>. </p>
+<h2>🎯 Objectives</h2> <ul style="font-size:14px;"> <li>Transform raw data into meaningful insights</li> <li>Identify and track key performance indicators (KPIs)</li> <li>Create interactive, automated dashboards</li> <li>Support better forecasting and strategic planning</li> </ul>
+<h2>🧩 Project Structure</h2> <pre> 📁 Data_Analytics_Project/ │ ├── 📊 Data/ # Raw and processed datasets ├── 📈 Reports/ # Power BI (.pbix) reports ├── 🧮 Scripts/ # Data cleaning & transformation scripts ├── 📚 Docs/ # Supporting documentation └── README.md # This file </pre>
+<h2>🛠️ Tools & Technologies</h2> <table style="font-size:14px;"> <tr><th>Category</th><th>Tools Used</th></tr> <tr><td>Data Processing</td><td>Python (Pandas, NumPy), SQL</td></tr> <tr><td>Visualization</td><td>Power BI, Matplotlib, Seaborn</td></tr> <tr><td>Automation</td><td>Power Query, DAX</td></tr> <tr><td>Documentation</td><td>Markdown, Excel</td></tr> </table>
+<h2>📊 Data Sources</h2> <p style="font-size:14px;"> - Internal company databases (Sales, Marketing, Finance)<br> - External public datasets (APIs, CSV files)<br> - Manual data collection (surveys, forms) </p>
+<h2>🧹 Data Cleaning & Preparation</h2> <p style="font-size:14px;"> Data was cleaned and prepared by removing duplicates, handling null values, standardizing date and numeric formats, and creating calculated columns. Power Query and Python were used to merge and transform data efficiently. </p>
+<h2>📈 Dashboard Highlights</h2> <h3>1️⃣ Sales Performance</h3> <p style="font-size:14px;">Tracks YoY growth, regional performance, and top products.</p> <h3>2️⃣ Customer Insights</h3> <p style="font-size:14px;">Analyzes customer retention, churn rate, and segmentation.</p> <h3>3️⃣ Financial Overview</h3> <p style="font-size:14px;">Visualizes revenue, profit margins, and cost trends.</p>
+<h2>📐 Key Metrics (KPIs)</h2> <table style="font-size:14px;"> <tr><th>KPI</th><th>Description</th></tr> <tr><td>Total Revenue</td><td>Total value of all sales transactions</td></tr> <tr><td>Profit Margin</td><td>Net Profit ÷ Total Revenue</td></tr> <tr><td>Customer Retention Rate</td><td>% of returning customers</td></tr> <tr><td>Average Order Value (AOV)</td><td>Total Revenue ÷ Number of Orders</td></tr> </table>
+<h2>⚙️ Installation & Setup</h2> <ol style="font-size:14px;"> <li>Clone the repository:<br> <code>git clone https://github.com/yourusername/DataAnalyticsProject.git</code></li> <li>Install dependencies:<br> <code>pip install -r requirements.txt</code></li> <li>Open the Power BI report:<br> <code>/Reports/Analytics_Dashboard.pbix</code></li> <li>Connect to the dataset and refresh the model.</li> </ol>
+<h2>🧠 Insights Summary</h2> <p style="font-size:14px;"> ✔️ Sales increased by <b>18% YoY</b> due to improved customer retention.<br> ✔️ Marketing ROI improved by <b>22%</b> with targeted campaigns.<br> ✔️ Operational costs reduced by <b>15%</b> through process optimization. </p>
+<h2>🔮 Future Improvements</h2> <ul style="font-size:14px;"> <li>Integrate predictive analytics models (ML)</li> <li>Enable real-time data refresh via APIs</li> <li>Implement dataset version control</li> </ul>
+<h2>👤 Author</h2> <p style="font-size:14px;"> <b>Your Name</b><br> <i>Data Analyst | Business Intelligence Specialist</i><br> 📧 your.email@example.com<br> 🔗 <a href="https://www.linkedin.com/">LinkedIn Profile</a> </p>
