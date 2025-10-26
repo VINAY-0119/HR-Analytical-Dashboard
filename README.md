@@ -10,4 +10,4 @@
 <h2>⚙️ Installation & Setup</h2> <ol style="font-size:14px;"> <li>Clone the repository:<br> <code>git clone https://github.com/yourusername/DataAnalyticsProject.git</code></li> <li>Install dependencies:<br> <code>pip install -r requirements.txt</code></li> <li>Open the Power BI report:<br> <code>/Reports/Analytics_Dashboard.pbix</code></li> <li>Connect to the dataset and refresh the model.</li> </ol>
 <h2>🧠 Insights Summary</h2> <p style="font-size:14px;"> ✔️ Sales increased by <b>18% YoY</b> due to improved customer retention.<br> ✔️ Marketing ROI improved by <b>22%</b> with targeted campaigns.<br> ✔️ Operational costs reduced by <b>15%</b> through process optimization. </p>
 <h2>🔮 Future Improvements</h2> <ul style="font-size:14px;"> <li>Integrate predictive analytics models (ML)</li> <li>Enable real-time data refresh via APIs</li> <li>Implement dataset version control</li> </ul>
-<h2>👤 Author</h2> <p style="font-size:14px;"> <b>Your Name</b><br> <i>Data Analyst | Business Intelligence Specialist</i><br> 📧 your.email@example.com<br> 🔗 <a href="https://www.linkedin.com/">LinkedIn Profile</a> </p>
+
