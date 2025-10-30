@@ -1,3 +1,6 @@
+<img width="762" height="422" alt="Screenshot 2025-10-30 202202" src="https://github.com/user-attachments/assets/d5445301-d512-4ea3-8166-ff85a93a7783" />
+<img width="767" height="411" alt="Screenshot 2025-10-30 202058" src="https://github.com/user-attachments/assets/7f46afff-dca0-4860-9041-bfde58f3b544" />
+<img width="752" height="400" alt="Screenshot 2025-10-30 201912" src="https://github.com/user-attachments/assets/d9b7ac6a-28f0-4be7-bcb5-8544dce67e64" />
 <h1 align="center">🧠 Data Analytics Project</h1> <p align="center"><i>Transforming data into actionable insights</i></p>
 <h2>📋 Project Overview</h2> <p style="font-size:14px;"> This project focuses on analyzing and visualizing business data to discover insights, track KPIs, and support data-driven decisions. It includes end-to-end processes like data cleaning, transformation, and dashboard creation using <b>Power BI</b> and <b>Python</b>. </p>
 <h2>🎯 Objectives</h2> <ul style="font-size:14px;"> <li>Transform raw data into meaningful insights</li> <li>Identify and track key performance indicators (KPIs)</li> <li>Create interactive, automated dashboards</li> <li>Support better forecasting and strategic planning</li> </ul>
